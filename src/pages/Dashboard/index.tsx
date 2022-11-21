@@ -61,7 +61,7 @@ export default function Dashboard() {
   }
 
   function toggleModal() {
-    setModalOpen(modalOpen);
+    setModalOpen(!modalOpen);
   }
 
   function toggleEditModal() {

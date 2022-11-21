@@ -11,7 +11,7 @@ export interface FoodData {
   image: string;
   name: string;
   price: string;
-  
+ 
 }
 
 interface FoodProps {
